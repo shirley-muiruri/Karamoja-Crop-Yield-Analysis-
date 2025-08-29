@@ -20,12 +20,24 @@ The analysis is based on several datasets provided by DDI, including:
 
 * Crop maps: Shapefiles specifically mapping maize and sorghum cultivation areas.
 
-## Method
-The data files provided were loaded and inspected for data types, similarities, and missing values. Summary statistics were then generated to further understand the data provided. The data was then visualized, and a correlation analysis was carried out. 
+## Key Findings
 
-## Results
+* Population density shows a strong correlation with maize cultivation in certain districts.
+  
+* Overall, sorghum yield remains consistent across the region, but with significant variation at a subcounty level
+
+### Interactive Dashboard
+
+Explore the full interactive analysis on Tableau Public.
+
+[Link to Tableau Dashboard] (      )
 
 
+### Repository Structure
+
+- DATA(1)
+- README.md: This file.
+- Karamoja Food Security Analysis.ipynb: A Jupyter notebook containing the data preparation and the initial data exploration.
 
 
 
