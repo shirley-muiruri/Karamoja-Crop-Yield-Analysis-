@@ -1,4 +1,7 @@
-# Karamoja Food Security Analysis 
+# Karamoja Food Security Analysis
+
+## Authors: Group 10: Shirley Muiruri, Ashley Simiyu. 
+                    
 
 ## Overview
 
@@ -13,6 +16,7 @@ Dalberg Data Insights (DDI) is tasked with developing a food security monitoring
 ## Data
 
 The analysis is based on several datasets provided by DDI, including:
+
 * Crop yield and population data: CSV files containing crop yield and population figures for both districts and subcounties in Karamoja.
 
 * Spatial data: Shapefiles for Uganda's districts and subcounties.
@@ -21,21 +25,32 @@ The analysis is based on several datasets provided by DDI, including:
 
 ## Key Findings
 
-* Population density shows a strong correlation with maize cultivation in certain districts.
+* District Analysis: The map provides a high-level overview of total crop productivity across Karamoja districts. The color intensity indicates total sorghum and maize production, allowing us to identify the  most productive areas at a glance. These areas are Kotido, Nakarapiripirit, and Kaabong districts.
+<img width="4207" height="70" alt="image" src="https://github.com/user-attachments/assets/04a249a4-480f-4c69-a4cd-3d74431abf96" />
+
   
-* Overall, sorghum yield remains consistent across the region, but with significant variation at a subcounty level
+* Sub-county Analysis: The bar graphs show the relationship between individual crop production, total crop yield, and population. We can conclude that the  majority of the sub-counties have a population higher than their crop yield or production, except for Nakarapiripirit Town Council.
+<img width="4217" height="70" alt="image" src="https://github.com/user-attachments/assets/d90de45f-88a1-4867-b8eb-b12f7d580740" />
+
+* Crop Analysis: The map visualizes the cultivated areas for both maize and sorghum, revealing which crop is the more dominant in specific sub-counties of Karamoja.
+<img width="2416" height="70" alt="image" src="https://github.com/user-attachments/assets/a269411b-8fc2-4d02-870d-ab5ea0bbc4e7" />
+
+* The map of population vs maize yield per district: It shows high populations in the districts and low maize yields. These areas are prone to facing significant food deficits and should be prioritized for food aid, agricultural support programs, and market interventions<img width="3800" height="70" alt="image" src="https://github.com/user-attachments/assets/66893099-a77c-40ec-8dbd-6e5500dbbb4e" />
+
+
 
 ### Interactive Dashboard
 
-Explore the full interactive analysis on Tableau Public.
+Exploring the full interactive analysis on Tableau Public.
 
-[Link to Tableau Dashboard] (      )
+[Link to Tableau Dashboard] ( https://public.tableau.com/shared/JCS2QTKNH?:display_count=n&:origin=viz_share_link )
 
 
 ### Repository Structure
 
 - DATA(1)
 - README.md: This file.
+- Presentation (pdf)
 - Karamoja Food Security Analysis.ipynb: A Jupyter notebook containing the data preparation and the initial data exploration.
 
 
