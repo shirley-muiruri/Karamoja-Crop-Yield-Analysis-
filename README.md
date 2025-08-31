@@ -25,17 +25,17 @@ The analysis is based on several datasets provided by DDI, including:
 
 ## Key Findings
 
-* District Analysis: The map provides a high-level overview of total crop productivity across Karamoja districts. The color intensity indicates total sorghum and maize production, allowing us to identify the  most productive areas at a glance. These areas are Kotido, Nakarapiripirit, and Kaabong districts.
-<img width="4207" height="70" alt="image" src="https://github.com/user-attachments/assets/04a249a4-480f-4c69-a4cd-3d74431abf96" />
+* District Analysis: The map provides a high-level overview of total crop productivity across Karamoja districts. The color intensity indicates the total production of sorghum and maize, allowing us to identify the  most productive areas at a glance. These areas are Kotido, Nakarapiripirit, and Kaabong districts.
+
 
   
 * Sub-county Analysis: The bar graphs show the relationship between individual crop production, total crop yield, and population. We can conclude that the  majority of the sub-counties have a population higher than their crop yield or production, except for Nakarapiripirit Town Council.
-<img width="4217" height="70" alt="image" src="https://github.com/user-attachments/assets/d90de45f-88a1-4867-b8eb-b12f7d580740" />
+
 
 * Crop Analysis: The map visualizes the cultivated areas for both maize and sorghum, revealing which crop is the more dominant in specific sub-counties of Karamoja.
-<img width="2416" height="70" alt="image" src="https://github.com/user-attachments/assets/a269411b-8fc2-4d02-870d-ab5ea0bbc4e7" />
 
-* The map of population vs maize yield per district: It shows high populations in the districts and low maize yields. These areas are prone to facing significant food deficits and should be prioritized for food aid, agricultural support programs, and market interventions<img width="3800" height="70" alt="image" src="https://github.com/user-attachments/assets/66893099-a77c-40ec-8dbd-6e5500dbbb4e" />
+
+* The map of population vs maize yield per district: It shows high populations in the districts and low maize yields. These areas are prone to facing significant food deficits and should be prioritized for food aid, agricultural support programs, and market interventions.
 
 
 
