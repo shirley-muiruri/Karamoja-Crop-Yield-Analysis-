@@ -1,6 +1,6 @@
 # Karamoja Food Security Analysis
 
-## Authors: Group 10: Shirley Muiruri, Ashley Simiyu. 
+## Authors: Group 10: Shirley Muiruri, Ashley Simiyu, Rodney Onsongo, Kyle Ongera, James Kongere.
                     
 
 ## Overview
